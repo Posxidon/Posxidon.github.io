@@ -2,7 +2,7 @@
 
 Welcome to my React Portfolio! This project showcases my work, skills, and experience as a software developer. It's built with React, styled with CSS, and includes various interactive components.
 
-To view the source code, please switch branches to source.
+To view the source code, please switch branch to source.
 
 ## Table of Contents
 
