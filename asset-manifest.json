@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e386f4e.css",
-    "main.js": "/static/js/main.fddfbfa6.js",
+    "main.css": "/static/css/main.b8bc61ef.css",
+    "main.js": "/static/js/main.e8748e2c.js",
     "static/media/socket.jpeg": "/static/media/socket.e06b19f79e25c475593e.jpeg",
     "static/media/harshitSmile.jpg": "/static/media/harshitSmile.fe4e50e4990225711a36.jpg",
     "static/media/StockMarket.png": "/static/media/StockMarket.adf39efb2779a374fe09.png",
@@ -12,11 +12,11 @@
     "static/media/WeatherApp.jpeg": "/static/media/WeatherApp.dbca67e0df8996dfb782.jpeg",
     "static/media/harshit_resume_feb.pdf": "/static/media/harshit_resume_feb.e850fb8170108d510531.pdf",
     "index.html": "/index.html",
-    "main.9e386f4e.css.map": "/static/css/main.9e386f4e.css.map",
-    "main.fddfbfa6.js.map": "/static/js/main.fddfbfa6.js.map"
+    "main.b8bc61ef.css.map": "/static/css/main.b8bc61ef.css.map",
+    "main.e8748e2c.js.map": "/static/js/main.e8748e2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e386f4e.css",
-    "static/js/main.fddfbfa6.js"
+    "static/css/main.b8bc61ef.css",
+    "static/js/main.e8748e2c.js"
   ]
 }
