@@ -19,7 +19,7 @@ export const projectsData = [
     {
         id: 2,
         image: Socket,
-        title: "WeatherApp",
+        title: "Client-Server File Transfer with Socket API",
         techStack: ["Python", "Socket", "sys", "os"],
         url: "https://github.com/Posxidon/clientserver-socketapi"
     },

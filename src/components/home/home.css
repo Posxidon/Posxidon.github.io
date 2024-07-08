@@ -8,8 +8,6 @@
     padding-top: 5.5rem;
     column-gap: 2rem;
     align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 
 .home__social {
@@ -55,12 +53,13 @@
 .home__img {
     background: url(../../assets//harshitMac.jpg);
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center;
     background-size: cover;
     box-shadow: inset 0 0 0 9px rgb(225 225 225 / 30%);
     width: 300px;
     height: 300px;
     animation: profile__animate 8s ease-in-out infinite 1s;
+    justify-self: center;
 }
 
 .say-hello-btn {
@@ -127,7 +126,6 @@
     .home__content {
         grid-template-columns: 100px repeat(2, 1fr);
         column-gap: 1.25rem;
-        justify-content: center;
     }
 
     .home__hand {
@@ -163,17 +161,16 @@
 
 @media screen and (max-width: 768px) {
     .home__content {
-        grid-template-columns: 1fr;
+        grid-template-columns: 0.5fr 3fr;
         padding-top: 3.5rem;
     }
 
     .home__img {
         order: initial;
-        justify-self: initial;
-        box-shadow: inset 0 0 0 6px rgb(225 225 225 / 30%);
+        justify-self: center;
         width: 200px;
         height: 200px;
-        margin-bottom: 2rem;
+        box-shadow: inset 0 0 0 6px rgb(225 225 225 / 30%);
     }
 
     .home__data {
@@ -185,64 +182,14 @@
     }
 }
 
-@media screen and (max-width: 576px) {
-    .home__content {
-        padding-top: 2rem;
-    }
-
-    .home__title {
-        font-size: 2.5rem;
-    }
-
-    .home__hand {
-        width: 22px;
-        height: 22px;
-    }
-
-    .home__subtitle {
-        font-size: 1.25rem;
-    }
-
-    .home__description {
-        font-size: 0.9rem;
-    }
-
+@media screen and (max-width: 350px) {
     .home__img {
         width: 180px;
         height: 180px;
     }
 
-    .say-hello-btn {
-        padding: 0.8rem 1.5rem;
-        font-size: 1rem;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .home__title {
-        font-size: 2.2rem;
-    }
-
     .home__hand {
-        width: 20px;
-        height: 20px;
-    }
-
-    .home__subtitle {
-        font-size: 1.1rem;
-    }
-
-    .home__description {
-        font-size: 0.8rem;
-    }
-
-    .home__img {
-        width: 160px;
-        height: 160px;
-    }
-
-    .say-hello-btn {
-        padding: 0.7rem 1.2rem;
-        font-size: 0.9rem;
+        width: 22px;
+        height: 22px;
     }
 }
