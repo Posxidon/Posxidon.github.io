@@ -39,15 +39,15 @@ const Header = () => {
                             </a>
                         </li>
                         <li className="nav__item">
-                            <a href="#skills" onClick={() => { setActiveNav("#skills"); showMenu(false); }}
-                                className={activeNav === "#skills" ? "nav__link active-link" : "nav__link"}>
-                                <HiOutlineBadgeCheck className="nav__icon" />Skills
-                            </a>
-                        </li>
-                        <li className="nav__item">
                             <a href="#qualifications" onClick={() => { setActiveNav("#qualifications"); showMenu(false); }}
                                 className={activeNav === "#qualifications" ? "nav__link active-link" : "nav__link"}>
                                 <HiOutlineAcademicCap className="nav__icon" />Qualifications
+                            </a>
+                        </li>
+                        <li className="nav__item">
+                            <a href="#skills" onClick={() => { setActiveNav("#skills"); showMenu(false); }}
+                                className={activeNav === "#skills" ? "nav__link active-link" : "nav__link"}>
+                                <HiOutlineBadgeCheck className="nav__icon" />Skills
                             </a>
                         </li>
                         <li className="nav__item">
