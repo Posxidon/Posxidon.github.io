@@ -6,6 +6,7 @@ Welcome to my React Portfolio! This project showcases my work, skills, and exper
 
 - [Features](#features)
 - [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Components](#components)
@@ -39,6 +40,16 @@ Welcome to my React Portfolio! This project showcases my work, skills, and exper
 ├── package.json
 └── README.md
 ```
+
+## Technologies Used
+ 
+ HTML5  
+ CSS3  
+ React.js  
+ Additional tools and libraries: 
+
+ - [EmailJS SDK](https://www.emailjs.com/): Enables sending emails directly from client-side code
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
