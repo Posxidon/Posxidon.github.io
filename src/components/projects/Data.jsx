@@ -13,7 +13,7 @@ export const projectsData = [
         image: Portfolio,
         title: "Harshit's Portfolio",
         techStack: ["React", "CSS", "HTML", "EmailJS"],
-        url: "https://posxidon.github.io/"
+        url: "https://github.com/Posxidon/posxidon.github.io/tree/source"
     },
 
 
