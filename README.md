@@ -45,7 +45,7 @@ Welcome to my React Portfolio! This project showcases my work, skills, and exper
  
  HTML5  
  CSS3  
- JavaScript  
+ React.js  
  Additional tools and libraries: 
 
  - [EmailJS SDK](https://www.emailjs.com/): Enables sending emails directly from client-side code
