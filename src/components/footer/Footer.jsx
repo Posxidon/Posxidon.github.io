@@ -25,10 +25,10 @@ const Footer = () => {
                 <a href="mailto:harshitsharma967@gmail.com" className="email" target="_blank" rel="noreferrer">
                     <FiMail />
                 </a>
-                <a href="https://www.github.com/kmaalig" className="github" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Posxidon" className="github" target="_blank" rel="noreferrer">
                     <FiGithub />
                 </a>
-                <a href="https://www.linkedin.com/in/kmaalig/" className="linkedin" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/harshit-rakesh-sharma/" className="linkedin" target="_blank" rel="noreferrer">
                     <FiLinkedin />
                 </a>    
             </div>
